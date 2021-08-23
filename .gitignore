@@ -1,0 +1,7 @@
+*.o
+*.nes
+.vscode
+bin
+log
+.idea
+Lumberjack.log
